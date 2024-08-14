@@ -35,11 +35,8 @@ VolleyForm AI analyzes your movements and gives instant feedback to help you cor
 Check out [this demo video](https://youtu.be/o56tVAUh-7Q) to see the app in action.
 
 ## Medium Article
-Want to know how this app was built? Read the full story [here](insert-link-here) on Medium.
+COMING SOON!
 
 ## Repository Contents
-- **app.py**: The main application script.
+- **volleyformai.py**: The main application script.
 - **requirements.txt**: Dependencies needed to run the app.
-
-## Contributing
-Ideas for improvements or new features? Feel free to fork the repository and submit a pull request.
