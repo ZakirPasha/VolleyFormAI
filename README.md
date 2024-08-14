@@ -25,7 +25,7 @@ VolleyForm AI analyzes your movements and gives instant feedback to help you cor
 
 3. **Run the Python Script**
     ```bash
-    python app.py
+    python volleyformai.py
     ```
 
 4. **Analyze Your Form**
