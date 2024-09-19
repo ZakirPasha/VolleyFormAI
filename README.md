@@ -14,7 +14,7 @@ VolleyForm AI analyzes your movements and gives instant feedback to help you cor
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/VolleyFormAI.git
+    git clone https://github.com/zpasha/VolleyFormAI.git
     cd VolleyFormAI
     ```
 
